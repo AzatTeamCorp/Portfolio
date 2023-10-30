@@ -30,3 +30,10 @@ Additionally, we are:
 - capable of solving non-standard tasks and evaluating the most optimal project implementation options
 - prepared to establish long-term relationships
 - able to handle both complex, long-term projects and standard websites and e-commerce platforms.
+
+Projects:
+- <a href="https://github.com/AzatTeamCorp/Portfolio/tree/main/AI-Catalogue" target="_blank">AI Catalogue</a>
+- <a href="https://github.com/AzatTeamCorp/Portfolio/tree/main/Miimu" target="_blank">Miimu</a>
+- <a href="https://github.com/AzatTeamCorp/Portfolio/tree/main/SQFT" target="_blank">SQFT</a>
+- <a href="https://github.com/AzatTeamCorp/Portfolio/tree/main/Seniorboy" target="_blank">Seniorboy</a>
+- <a href="https://github.com/AzatTeamCorp/Portfolio/tree/main/Testpro" target="_blank">Testpro</a>
