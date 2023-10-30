@@ -1,5 +1,11 @@
 ## SQFT
 
+<p align="center">
+    <a href="#" target="_blank">
+        <img src="https://raw.githubusercontent.com/AzatTeamCorp/Portfolio/main/SQFT/cover.jpg">
+    </a>
+</p>
+
 Web platform to connect developers, brokers and real estate agencies on a single portal for real estate sales in Europe, Dubai and Canada.
 
 Complex, highly loaded, integrated with 18 third party platforms, including several subscription plans, several personal accounts with full functionality for Developers and real estate brokers.
