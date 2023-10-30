@@ -1,5 +1,11 @@
 ## Testpro
 
+<p align="center">
+    <a href="#" target="_blank">
+        <img src="https://raw.githubusercontent.com/AzatTeamCorp/Portfolio/main/Testpro/cover.jpg">
+    </a>
+</p>
+
 Corporate medium-load EdTech project for US company Testpro LLC.
 
 Deep integration with HubSpot, Google Analytics, Atlassian Jira, CRM, Microsoft Team, Microsoft Outlook. There are two student offices, a faculty office, and six working test environments for student learning.
